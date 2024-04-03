@@ -13894,18 +13894,6 @@
 		(layer "Edge.Cuts")
 		(uuid "fff6d3fb-3bcc-4b76-a742-5e619d1b322d")
 	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 147.5 70 0)
-		(layer "B.Cu")
-		(uuid "a274431b-b7be-467d-91cf-d94c91d07555")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom mirror)
-		)
-	)
 	(gr_text "KHF 04.2024"
 		(at 150.115604 66.843511 0)
 		(layer "B.Cu")
@@ -13966,6 +13954,18 @@
 				(thickness 0.5)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 147.5 70 0)
+		(layer "B.SilkS")
+		(uuid "a274431b-b7be-467d-91cf-d94c91d07555")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "KHF 04.2024"
